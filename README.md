@@ -68,7 +68,7 @@ function getNoelfania(whoami){
 
 ```java
 public class Noelfania{
-    String final NOELFANIA = "noelfania";
+    final String NOELFANIA = "noelfania";
     String getNoelfania(String whoami){
         return whoami;
     }
