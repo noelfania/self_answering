@@ -1,5 +1,5 @@
 # Learning github style markdown
-## Gathering sample of markdown syntax
+## Gathering samples of markdown syntax
 
 <br>
 
@@ -44,6 +44,7 @@ This paragraph contains `code` in line.
 
 ```html
 <!doctype html>
+<html>
     <head>
     </head>
     <body>
