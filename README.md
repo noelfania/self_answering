@@ -1,9 +1,11 @@
-# Learning github style markdown
-## Gathering samples of markdown syntax
-
+> **UPDATE(2020-12):<br>Decide What Project are effective to show my *`Work_Process`* that I learn so far.**
+* * *
 <br>
 
-**>>List up with mark**
+# Learning github style markdown
+
+
+## **List up with mark*
 
 - first one
 - second one
@@ -13,7 +15,7 @@
 
 <br>
 
-**>>Table format**
+## **Table format*
 
 |head0|head1|head2 
 | --- | --- | ---
@@ -22,25 +24,26 @@
 
 <br>
 
-**>>Hyperlink paragraph**
+## **Hyperlink paragraph*
 
-[this is the link to my github page](https://github.com/noelfania)
-
-<br>
-
-**>>Blockquote text**
-
-> text within block
+Click [This Link](https://github.com/noelfania)
+to  get into My github page.
 
 <br>
 
-**>>Inline code**
+## **Blockquote text*
 
-This paragraph contains `code` in line.
+> Text within block.
 
 <br>
 
-**>>Describe html code**
+## **Inline code*
+
+This paragraph contains `code()` in line.
+
+<br>
+
+## **Describe html code*
 
 ```html
 <!doctype html>
@@ -53,7 +56,7 @@ This paragraph contains `code` in line.
 ```
 <br>
 
-**>>Describe javascript code**
+## **Describe javascript code*
 
 ```js
 const NOELFANIA = "noelfania";
@@ -64,7 +67,7 @@ function getNoelfania(whoami){
 
 <br>
 
-**>>Describe java code**
+## **Describe java code*
 
 ```java
 public class Noelfania{
@@ -77,11 +80,14 @@ public class Noelfania{
 
 <br>
 
-**>>Put some image**
+## **Put some image*
 
 ![alt text](https://avatars0.githubusercontent.com/u/33711004?s=60&u=019b439bee8f35f9dc92def2b66a7b2dd60469d2&v=4)
 
 
+<br>
 
+## **ETC*
 
+fix this ~~error~~ to this
 
