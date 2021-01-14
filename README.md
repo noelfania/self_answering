@@ -1,4 +1,9 @@
-> **UPDATE(2020-12):<br>Decide What Project are effective to show my *`Work_Process`* that I learn so far.**
+> **UPDATE(2021-01): Upload <js/fp_iife.js><br>Q. When you return *`value`* in else statement inside of  iife, *`value`* is going to be undefined. How come?<br>
+A. ?????**
+* * *
+<br>
+
+> **UPDATE(2020-12):<br>Q. Decide What Project are effective to show my *`Work_Process`* that I learn so far.**
 * * *
 <br>
 
