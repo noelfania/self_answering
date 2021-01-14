@@ -1,5 +1,5 @@
-> **UPDATE(2021-01): Upload <js/fp_iife.js><br>Q. When you run fp_iife.js, *`return value`* is going to be undefined. How come?<br>
-A. go see <js/fp_iife.png>**
+> **UPDATE(2021-01): Upload <js/fp_iife.js><br>Q. When you run <js/fp_iife.js>, *`return value`* is going to be undefined. How come?<br>
+A. go see <js/fp_iife.png>.**
 * * *
 <br>
 
