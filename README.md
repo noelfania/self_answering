@@ -1,7 +1,7 @@
 > **UPDATE(2021-01): <br>
-Q. You can control Allowance you can get infomation When you request and response with HTTP. And There are a bunch of options.<br>
+Q. You can control Allowance of data When you request and response with HTTP. For Instance, When someone request your server with url from another domain to get data, you can response nothing...  There are a bunch of options. HTTP.METHOD, HTTP.HEADERS....etc <br>
 A. CORS you would be familir with, and sameSite issues lately...
-I'd like to pratice of these client-server communication protocol with *`POSTMAN`***
+I'd like to pratice these client-server communication protocol with *`POSTMAN`***
 * * *
 <br>
 
