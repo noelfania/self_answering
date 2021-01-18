@@ -1,3 +1,11 @@
+> **UPDATE(2021-01): <br>
+Q. You can control Allowance you can get infomation When you request and response with HTTP. And There are a bunch of options.<br>
+A. CORS you would be familir with, and sameSite issues lately...
+I'd like to pratice of these client-server communication protocol with *`POSTMAN`***
+* * *
+<br>
+
+
 > **UPDATE(2021-01): Upload <js/fp_iife.js><br>Q. When you run <js/fp_iife.js>, *`return value`* is going to be undefined. How come?<br>
 A. go see <js/fp_iife.png>.**
 * * *
